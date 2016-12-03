@@ -1,0 +1,19 @@
+{
+  "name": "swell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingushead/swell.git"
+  },
+  "author": "Ciaran O Cearruill & Eamon Muldowney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mingushead/swell/issues"
+  },
+  "homepage": "https://github.com/mingushead/swell#readme"
+}
